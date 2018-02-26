@@ -19,4 +19,8 @@ body {
 .img-medium {
     height: 200px;
 }
-
+.content
+{
+    margin:0 auto;
+    color:grey;
+}
