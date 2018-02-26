@@ -32,6 +32,9 @@ function createTemplate(data)
    <div class="content">
       <h3>${date}</h3>
       ${item}
+      <p>
+      ${data.author}
+      </p>
    </div>
     </body>
 </html> `;
