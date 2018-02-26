@@ -17,9 +17,9 @@ var articles={
     author:"Priyam's lifeline"
 },
 article2:{
-   title:"article2",
+    title:"article2",
     date:"25th February 2018",
-     content: `  <p>
+    content: `  <p>
      Thousand Miles
      </p>
       <p>
