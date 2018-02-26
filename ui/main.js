@@ -1,4 +1,4 @@
-alert("HI");
+alert("Hello");
 var counter=0;
 var button=document.getElementById('butt');
 var element=document.getElementById('me');
