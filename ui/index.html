@@ -30,12 +30,11 @@
 var counter=0;
 var butto=document.getElementById('butt');
 var element=document.getElementById('me');
- butto.innerHTML=1;
-butto.onClick=function()
+butto.onClick(function()
 {
    counter=counter+1;
    element.innerHTML=counter.toString();
-};
+});
         </script>
     </body>
 </html>
