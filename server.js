@@ -32,8 +32,7 @@ article3:{
     date:"26th February 2018",
      content: `
      <p>She will be loved</p>
-      <p>I don't mind coming everyday</p>
-      <p>Priyam's lifeline</p> `,
+      <p>I don't mind coming everyday</p> `,
     author:"Priyam's lifeline"  
 }
 };
