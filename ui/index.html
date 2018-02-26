@@ -25,6 +25,16 @@
                   You have <button id="butt"> Clicked It</button> <span id="me">0 </span> times
                </div>
                 </div>
-        <script type="text/javascript" src="/ui/main.js"></script>
+        <script type="text/javascript" >
+ alert("Hello");
+var counter=0;
+var button=document.getElementById('butt');
+var element=document.getElementById('me');
+button.onClick=function()
+{
+   counter=counter+1;
+   element.innerHTML=counter.toString();
+};
+        </script>
     </body>
 </html>
